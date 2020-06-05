@@ -27,11 +27,16 @@ This program is in collaboration with:
 Explore an interactive data dashboard to uncover insights, and write a short report explaining each insight. 
 * Analyze the [Malaria in Africa](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true#2) Tableau dashboard, find three insights in the visualizations.
 * For each insight, provide a static image that shares your finding and write a short report explaining each observation and how you found the information to reach your conclusion from the dashboard. 
-* Work: Project 1-Interpret a Data Visualization.pdf
 
 
 ### Part 2 - Introduction to Data
 #### **[Project 2 - Analyze NYSE Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%202-Analyze%20NYSE%20Data)**
+Use a dataset containing financial performance data from companies listed in NYSE S & P to create an income statement and forecast financial metrics.
+* Task 1: Create data analysis and a presentation (PPT) to share findings. Use data to answer the question you identified, questions should include at least one **categorial variable** and one **quantitative variable**, and require the use of **summary statistics** to derive insights. 
+* Task 2: Create a dashboard for a **Profit and Loss Statement** that calculates the **Gross Profit, Operating Profit or EBIT** for a company selected from a drop-down list.
+* Task 3: Create a **financial model** that forecasts out financial metrics for **two more years using three scenarios (Best case, Weak case and Base case).**
+* Technologies: MS Excel Charts, INDEX + MATCH, OFFSET, Data Validation, Functions (Median, Standard Deviation, Quartile, etc.)
+
 
 
 ### Part 3 - SQL for Data Analysis
