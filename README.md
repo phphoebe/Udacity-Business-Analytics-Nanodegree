@@ -1,8 +1,6 @@
 # Business Analytics Nanodegree (BAND), Udacity
 Collect, Manipulate and Analyze data, model business scenarios, and communicate findings with Excel, SQL and Tableau.
 
-![](https://github.com/phphoebe/udacity-band-projects/blob/master/Graduaction%20Certificate.PNG)
-
 ## Analyzing Data for any industry – Making better, data-informed decisions.
 
 * **Descriptive Statistics**: data types, measures of center, spread, shape, and outliers associated with quantitative data. Statistical and mathematical notations. 
@@ -35,3 +33,4 @@ More information about this course can be found by visiting [Udacity Business An
 * **[Project 4 - Story Telling with Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%204-Tableau-Data%20Visualization-Telling%20Stories%20with%20Data)**
 
 
+![](https://github.com/phphoebe/udacity-band-projects/blob/master/Graduaction%20Certificate.PNG)
