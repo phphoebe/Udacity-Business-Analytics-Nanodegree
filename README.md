@@ -13,9 +13,10 @@ This program is in collaboration with:
 * [Tableau](https://www.tableau.com/)
 * [Mode Analytics](https://mode.com/)
 
-More information about this course can be found by visiting [Udacity Business Analytics ND](https://www.udacity.com/course/business-analytics-nanodegree--nd098). 
+**More information about this course can be found by visiting [Udacity Business Analytics ND](https://www.udacity.com/course/business-analytics-nanodegree--nd098).**
 
-## Program Syllabus
+
+## Program Syllabus & Project Overview
 
 ### Part 1 - Orientation 
 * **[Project 1 - Interpret a Data Visualization](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%201-Interpret%20a%20Data%20Visualization)**
