@@ -4,7 +4,7 @@ Collect, Manipulate and Analyze data, model business scenarios, and communicate 
 * SQL
 * Tableau
 
-## [Analyzing Data for any industry – Making better, data-informed decisions](https://github.com/phphoebe/udacity-band-projects/blob/master/Business%2BAnalytics%2BNanodegree%2BProgram%2BSyllabus%2B2.0.pdf)
+## Analyzing Data for any industry – Making better, data-informed decisions
 
 * **Descriptive Statistics**: data types, measures of center, spread, shape, and outliers associated with quantitative data. Statistical and mathematical notations. 
 * **Business Metrics** across a range of business functions (marketing, sales, finance, growth, engagement). Calculate and interpret KPIs, including CTR, CPC, CPA, CAC, CLTV, Churn Rate, Stickiness. 
@@ -19,7 +19,7 @@ This program is in collaboration with:
 **More information about this program can be found by visiting [Udacity Business Analytics ND](https://www.udacity.com/course/business-analytics-nanodegree--nd098).**
 
 
-## Program Syllabus & Project Overview
+## [Program Syllabus](https://github.com/phphoebe/udacity-band-projects/blob/master/Business%2BAnalytics%2BNanodegree%2BProgram%2BSyllabus%2B2.0.pdf) & Project Overview
 
 ## Part 1 - Orientation 
 ### **[Project 1 - Interpret a Data Visualization](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%201-Interpret%20a%20Data%20Visualization)**
