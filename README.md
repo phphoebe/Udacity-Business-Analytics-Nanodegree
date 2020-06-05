@@ -31,15 +31,15 @@ Explore an interactive data dashboard to uncover insights, and write a short rep
 
 
 ### Part 2 - Introduction to Data
-* **[Project 2 - Analyze NYSE Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%202-Analyze%20NYSE%20Data)**
+#### **[Project 2 - Analyze NYSE Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%202-Analyze%20NYSE%20Data)**
 
 
 ### Part 3 - SQL for Data Analysis
-* **[Project 3 - Query a Digital Music Store Database](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%203-SQL-Query%20a%20Digital%20Music%20Store%20Database)**
+#### **[Project 3 - Query a Digital Music Store Database](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%203-SQL-Query%20a%20Digital%20Music%20Store%20Database)**
 
 
 ### Part 4 - Data Visualization 
-* **[Project 4 - Story Telling with Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%204-Tableau-Data%20Visualization-Telling%20Stories%20with%20Data)**
+#### **[Project 4 - Story Telling with Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%204-Tableau-Data%20Visualization-Telling%20Stories%20with%20Data)**
 
 
 ![](https://github.com/phphoebe/udacity-band-projects/blob/master/Graduaction%20Certificate.PNG)
