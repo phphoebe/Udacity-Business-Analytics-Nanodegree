@@ -21,7 +21,7 @@ This program is in collaboration with:
 
 ## Program Syllabus & Project Overview
 
-### Part 1 - Orientation 
+## Part 1 - Orientation 
 ### **[Project 1 - Interpret a Data Visualization](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%201-Interpret%20a%20Data%20Visualization)**
 
 Explore an interactive data dashboard to uncover insights, and write a short report explaining each insight. 
@@ -29,7 +29,7 @@ Explore an interactive data dashboard to uncover insights, and write a short rep
 * For each insight, provide a static image that shares your finding and write a short report explaining each observation and how you found the information to reach your conclusion from the dashboard. 
 
 
-### Part 2 - Introduction to Data
+## Part 2 - Introduction to Data
 ### **[Project 2 - Analyze NYSE Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%202-Analyze%20NYSE%20Data)**
 Use a dataset containing financial performance data from companies listed in NYSE S&P to create an income statement and forecast financial metrics.
 * **Task 1**: Create data analysis and a presentation to share findings. Use data to answer the question you identified, questions should include at least one **categorial variable** and one **quantitative variable**, and require the use of **summary statistics** to derive insights. 
@@ -39,7 +39,7 @@ Use a dataset containing financial performance data from companies listed in NYS
 
 
 
-### Part 3 - SQL for Data Analysis
+## Part 3 - SQL for Data Analysis
 * SQL Joins
 * SQL Aggregations
 * SQL Subqueries & Temporary Tables
@@ -50,7 +50,7 @@ Use a digital music store database to help the company see how they might optimi
 * Write SQL queries to pull data to answer questions you created. Build visuals to effectively communicate findings. 
 * Technologies: SQLite (joins, aggregations, CTEs), Excel charts (clustered bar, pie, etc.), pivot table. 
 
-### Part 4 - Data Visualization 
+## Part 4 - Data Visualization 
 ### **[Project 4 - Story Telling with Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%204-Tableau-Data%20Visualization-Telling%20Stories%20with%20Data)**
 
 
