@@ -16,13 +16,18 @@ This program is in collaboration with:
 * [Tableau](https://www.tableau.com/)
 * [Mode Analytics](https://mode.com/)
 
-**More information about this course can be found by visiting [Udacity Business Analytics ND](https://www.udacity.com/course/business-analytics-nanodegree--nd098).**
+**More information about this program can be found by visiting [Udacity Business Analytics ND](https://www.udacity.com/course/business-analytics-nanodegree--nd098).**
 
 
 ## Program Syllabus & Project Overview
 
 ### Part 1 - Orientation 
-* **[Project 1 - Interpret a Data Visualization](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%201-Interpret%20a%20Data%20Visualization)**
+#### **[Project 1 - Interpret a Data Visualization](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%201-Interpret%20a%20Data%20Visualization)**
+
+Explore an interactive data dashboard to uncover insights, and write a short report explaining each insight. 
+* Analyze the [Malaria in Africa](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true#2) Tableau dashboard, find three insights in the visualizations.
+* For each insight, provide a static image that shares your finding and write a short report explaining each observation and how you found the information to reach your conclusion from the dashboard. 
+* Work: Project 1-Interpret a Data Visualization.pdf
 
 
 ### Part 2 - Introduction to Data
