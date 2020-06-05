@@ -1,7 +1,7 @@
 # Business Analytics Nanodegree (BAND), Udacity
 Collect, Manipulate and Analyze data, model business scenarios, and communicate findings with Excel, SQL and Tableau.
 
-## Analyzing Data for any industry – Making better, data-informed decisions.
+## [Analyzing Data for any industry – Making better, data-informed decisions](https://github.com/phphoebe/udacity-band-projects/blob/master/Business%2BAnalytics%2BNanodegree%2BProgram%2BSyllabus%2B2.0.pdf)
 
 * **Descriptive Statistics**: data types, measures of center, spread, shape, and outliers associated with quantitative data. Statistical and mathematical notations. 
 * **Business Metrics** across a range of business functions (marketing, sales, finance, growth, engagement). Calculate and interpret KPIs, including CTR, CPC, CPA, CAC, CLTV, Churn Rate, Stickiness. 
