@@ -32,7 +32,7 @@ Explore an interactive data dashboard to uncover insights, and write a short rep
 ## Part 2 - Introduction to Data
 ### **[Project 2 - Analyze NYSE Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%202-Analyze%20NYSE%20Data)**
 Use a dataset containing financial performance data from companies listed in NYSE S&P to create an income statement and forecast financial metrics.
-* Create data analysis and a presentation to identify and answer business questions. Use summary statistics to derive insights. 
+* Create data analysis and a presentation to answer business questions. Use summary statistics to derive insights. 
 * Create a dashboard for a Profit and Loss Statement that calculates the Gross Profit, Operating Profit or EBIT for a company selected from a drop-down list.
 * Create a financial model that forecasts out metrics for two more years using three scenarios.
 * Technologies: Excel Charts, INDEX + MATCH, OFFSET, Data Validation, Functions (MEDIAN, MIN, STDEV, QUARTILE, etc.)
