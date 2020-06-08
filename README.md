@@ -55,5 +55,6 @@ Use a digital music store database to help the company see how they might optimi
 * Technologies: Tableau Public, Tableau Desktop (dashboard, scatter plot, map, box plot, etc.) 
 * The links of the visualizations for this project have been accidently deleted. Please checkout my [Tableau Public Profile](https://public.tableau.com/profile/pphoebe#!/ ) for more viz I’ve created. 
 
+:tada: :tada: :tada: 
 
 ![](https://github.com/phphoebe/udacity-band-projects/blob/master/Graduaction%20Certificate.PNG)
