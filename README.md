@@ -41,12 +41,12 @@ Use a dataset containing financial performance data from companies listed in NYS
 ## Part 3 - SQL for Data Analysis
 *For the examples and practices in this course, we use data from Parch and Posey, a fictitous company sells paper to large companies. By querying the 5 tables in their database (orders, accounts, regions, sales_reps, web_events), we help them answer business questions which are meant to simulate real world problems. This course covers:*
 
-* SQL Joins
-* SQL Aggregations (DATE Functions, CASE & Aggregations)
-* SQL Subqueries, Temporary Tables, or Common Table Expressions (CTE)
-* SQL Data Cleaning (STRPOS & SUBSTR, CONCAT, CAST, COALESCE, LEFT & RIGHT)
+* **SQL Joins** (joining multiple tables)
+* **SQL Aggregations** (DATE Functions, CASE & Aggregations)
+* **SQL Subqueries, Temporary Tables, or Common Table Expressions (CTE)**
+* **SQL Data Cleaning** (STRPOS & SUBSTR, CONCAT, CAST, COALESCE, LEFT & RIGHT)
 
-:octocat: Takeaway: SQL allows us to analyze more complex questions than Google Analytics. For example, use *Inequality JOINs* to pull all the web traffic events occured before each account's first order to evaluate the effectiveness of marketing campaigns.
+:octocat: Takeaway: SQL allows us to analyze more complex questions than Google Analytics. For example, use **Inequality JOINs** to pull all the web traffic events occured before each account's first order to evaluate the effectiveness of marketing campaigns.
 
 ### **[Project 3 - Query a Digital Music Store Database](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%203-SQL-Query%20a%20Digital%20Music%20Store%20Database)**
 Use a digital music store database to help the company see how they might optimize their business practices
