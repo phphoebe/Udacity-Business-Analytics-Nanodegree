@@ -30,6 +30,19 @@ Explore an interactive data dashboard to uncover insights, and write a short rep
 
 
 ## Part 2 - Introduction to Data
+This course covers:
+* Descriptive Statistics 
+* Manipulate, Analyze, and Visualize Data in Excel 
+* Business Metrics including Customer Journey, Marketing and Sales Conversion Funnel 
+* Excel Modeling (Sales and Financial Forecasting Models) 
+
+**WeCart Case Study**
+
+*For the Business Metrics lesson, we use a case study of WeCart, a hypothetical online App for grocery delivery (similar to Instacart). WeCart uses a **subscription model** where people set up accounts and place orders on a regular basis.*
+
+*WeCart operates in both **B2C** and **B2B** models. They build awareness and try to get their name in front of potential customers by using SEO, email marketing, and ad platforms. They generate sales by reaching out to grocery stores. WeCart gain access to the grocery stores’ customers and the grocery store can access a delivery service.*
+
+
 ### **[Project 2 - Analyze NYSE Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%202-Analyze%20NYSE%20Data)**
 Use a dataset containing financial performance data from companies listed in NYSE S&P to create an income statement and forecast financial metrics.
 * Create data analysis and a presentation to answer business questions. Use summary statistics to derive insights. 
