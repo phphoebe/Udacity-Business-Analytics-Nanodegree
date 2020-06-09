@@ -7,7 +7,7 @@ Collect, Manipulate and Analyze data, model business scenarios, and communicate 
 ## Analyzing Data for any industry – Making better, data-informed decisions
 
 * **Descriptive Statistics**: data types, measures of center, spread, shape, and outliers associated with quantitative data. Statistical and mathematical notations. 
-* **Business Metrics** across a range of business functions (marketing, sales, finance, growth, engagement). Calculate and interpret KPIs, including CTR, CPC, CPA, CAC, CLTV, Churn Rate, Stickiness. Exposure to Subscribed based service model. 
+* **Business Metrics** across a range of business functions (marketing, sales, finance, growth, engagement). Calculate and interpret KPIs, including CTR, CPC, CPA, CAC, CLTV, Churn Rate, Stickiness. 
 * **Excel Modeling**: advanced lookup (index, match, offset) and data validation tools in MS Excel and Google Sheet. Create Financial and Sales forecasting models. 
 * **Relational Database (RDS)** knowledge, Entity Relationship Diagrams (ERD), and advanced SQL querying. This course uses PostgresSQL within the classroom. 
 * **Data Visualization**: best design practices, use the most appropriate chart for a particular situation, make dashboards & stories in Tableau. 
@@ -38,7 +38,7 @@ This course covers:
 
 **WeCart Case Study**
 
-*For the Business Metrics lesson, we use a case study of WeCart, a hypothetical online App for grocery delivery (similar to Instacart). WeCart uses a **subscription model** where people set up accounts and place orders on a regular basis.*
+*For the Business Metrics lesson, we use a case study of WeCart, a hypothetical online App for grocery delivery (similar to Instacart). WeCart uses a **Subscription Model** where people set up accounts and place orders on a regular basis.*
 
 *WeCart operates in both **B2C** and **B2B** models. They build awareness and try to get their name in front of potential customers by using SEO, email marketing, and ad platforms. They generate sales by reaching out to grocery stores. WeCart gain access to the grocery stores’ customers and the grocery store can access a delivery service.*
 
