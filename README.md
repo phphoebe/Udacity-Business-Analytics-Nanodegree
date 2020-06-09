@@ -6,9 +6,9 @@ Collect, Manipulate and Analyze data, model business scenarios, and communicate 
 
 ## Analyzing Data for any industry – Making better, data-informed decisions
 
-* **Descriptive Statistics**: Data Types, measures of Center, Spread, Shape, and Outliers associated with Quantitative Data. Statistical and Mathematical Notations. 
+* **Descriptive Statistics**: Data Types, measures of Center, Spread, Shape, and Outliers associated with Quantitative Data. 
 * **Business Metrics** across a range of business functions (Marketing, Sales, Growth, Engagement, Finance). Calculate and interpret KPIs, including CTR, CPC, CPA, CAC, CLTV, Churn Rate, Stickiness, etc.
-* **Excel Modeling**: advanced Functions (Index, Match, Offset) and Data Validation tools in MS Excel and Google Sheet. Create Financial and Sales forecasting models. 
+* **Excel Modeling**: advanced Functions (Index, Match, Offset) etc., create Financial and Sales Forecasting Models in MS Excel and Google Sheets.
 * **Relational Database (RDS)** knowledge, Entity Relationship Diagrams (ERD), and advanced SQL querying. This course uses PostgresSQL within the classroom. 
 * **Data Visualization**: Exploratory vs. Explanatory Analyses, best Design practices, use the most appropriate chart for a particular situation, make Dashboards and Stories in Tableau. 
 
@@ -31,10 +31,10 @@ Explore an interactive data dashboard to uncover insights, and write a short rep
 
 ## Part 2 - Introduction to Data
 This course covers:
-* **Descriptive Statistics 
+* **Descriptive Statistics**
 * **Manipulate, Analyze, and Visualize Data in Excel**
 * **Business Metrics, Customer Journey, Marketing and Sales Conversion Funnel**
-* **Excel Modeling** (Sales and Financial Forecasting Models)
+* **Excel Modeling (Sales and Financial Forecasting Models)**
 
 **WeCart Case Study**
 
