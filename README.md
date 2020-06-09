@@ -8,7 +8,7 @@ Collect, Manipulate and Analyze data, model business scenarios, and communicate 
 
 * **Descriptive Statistics**: Data Types, measures of Center, Spread, Shape, and Outliers associated with Quantitative Data. 
 * **Business Metrics** across a range of business functions (Marketing, Sales, Growth, Engagement, Finance). Calculate and interpret KPIs, including CTR, CPC, CPA, CAC, CLTV, Churn Rate, Stickiness, etc.
-* **Excel Modeling**: advanced Functions (Index, Match, Offset) etc., create Financial and Sales Forecasting Models in MS Excel and Google Sheets.
+* **Excel Modeling**: advanced Functions (Index, Match, Offset) etc., create Financial and Sales Forecasting Models in MS Excel.
 * **Relational Database (RDS)** knowledge, Entity Relationship Diagrams (ERD), and advanced SQL querying. This course uses PostgresSQL within the classroom. 
 * **Data Visualization**: Exploratory vs. Explanatory Analyses, best Design practices, use the most appropriate chart for a particular situation, make Dashboards and Stories in Tableau. 
 
@@ -52,7 +52,7 @@ Use a dataset containing financial performance data from companies listed in NYS
 
 
 ## Part 3 - SQL for Data Analysis
-*For the examples and practices in this course, we use data from Parch and Posey, a fictitous company sells paper to large companies. By querying the 5 tables in their database (orders, accounts, regions, sales_reps, web_events), we help them answer business questions which are meant to simulate real world problems. This course covers:*
+*For the examples and practices in this course, we use data from Parch and Posey, a fictitous company sells paper to large companies. By querying the 5 tables in their database **(orders, accounts, regions, sales_reps, web_events)**, we help them answer business questions which are meant to simulate real world problems. This course covers:*
 
 * **SQL Joins** (joining multiple tables)
 * **SQL Aggregations** (DATE Functions, CASE & Aggregations)
