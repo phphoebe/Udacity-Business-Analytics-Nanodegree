@@ -1,8 +1,8 @@
 # Business Analytics Nanodegree (BAND), Udacity
 Collect, Manipulate and Analyze data, model business scenarios, and communicate findings with:
-* Excel
-* SQL
-* Tableau
+* **Excel**
+* **SQL**
+* **Tableau**
 
 ## Analyzing Data for any industry – Making better, data-informed decisions
 
@@ -74,7 +74,7 @@ Use a digital music store database to help the company see how they might optimi
 ### **[Project 4 - Story Telling with Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%204-Tableau-Data%20Visualization-Telling%20Stories%20with%20Data)**
 * Analyze the [US Demographic data](https://www.kaggle.com/muonneutrino/us-census-demographic-data/data) containing the census data for all counties in 2015 (from Kaggle). Create 3 visualizations each with a brief description to reveal and convey insights. 
 * Technologies: Tableau Public, Tableau Desktop (dashboard, scatter plot, map, box plot, etc.) 
-* The links of the visualizations for this project have been accidently deleted. Please checkout my [Tableau Public Profile](https://public.tableau.com/profile/pphoebe#!/ ) for more viz I’ve created. 
+* The links of the visualizations for this project have been accidently deleted. **Please checkout my [Tableau Public Profile](https://public.tableau.com/profile/pphoebe#!/ ) for more viz I’ve created.**
 
 :tada: :tada: :tada: 
 
