@@ -68,7 +68,7 @@ Use a digital music store database to help the company see how they might optimi
 * Write SQL queries to pull data to answer questions you created. Build visuals to effectively communicate findings. 
 * Technologies: SQLite (joins, aggregations, CTEs), Excel charts (clustered bar, pie, etc.), pivot table. 
 
-![](https://github.com/phphoebe/udacity-band-projects/blob/master/images/Sales%20by%20Rep%20by%20Year.PNG)
+![](https://github.com/phphoebe/udacity-band-projects/blob/master/images/SQL.PNG)
 
 ## Part 4 - Data Visualization 
 ### **[Project 4 - Story Telling with Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%204-Tableau-Data%20Visualization-Telling%20Stories%20with%20Data)**
