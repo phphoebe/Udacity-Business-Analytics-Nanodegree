@@ -50,7 +50,6 @@ Use a dataset containing financial performance data from companies listed in NYS
 * Create a financial model that forecasts out metrics for two more years using three scenarios.
 * Technologies: Excel Charts, INDEX + MATCH, OFFSET, Data Validation, Functions (MEDIAN, MIN, STDEV, QUARTILE, etc.)
 
-![](https://github.com/phphoebe/udacity-band-projects/blob/master/images/P%20%26%20L.PNG)
 
 ## Part 3 - SQL for Data Analysis
 *For the examples and practices in this course, we use data from Parch and Posey, a fictitous company sells paper to large companies. By querying the 5 tables in their database **(orders, accounts, regions, sales_reps, web_events)**, we help them answer business questions which are meant to simulate real world problems. This course uses PostgresSQL within the classroom. This course covers:*
@@ -68,7 +67,6 @@ Use a digital music store database to help the company see how they might optimi
 * Write SQL queries to pull data to answer questions you created. Build visuals to effectively communicate findings. 
 * Technologies: SQLite (joins, aggregations, CTEs), Excel charts (clustered bar, pie, etc.), pivot table. 
 
-![](https://github.com/phphoebe/udacity-band-projects/blob/master/images/SQL.PNG)
 
 ## Part 4 - Data Visualization 
 ### **[Project 4 - Story Telling with Data](https://github.com/phphoebe/udacity-band-projects/tree/master/Project%204-Tableau-Data%20Visualization-Telling%20Stories%20with%20Data)**
