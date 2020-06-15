@@ -38,7 +38,7 @@ This course covers:
 
 **WeCart Case Study**
 
-*For the Business Metrics lesson, we use a case study of WeCart, a hypothetical online App for grocery delivery (similar to Instacart). WeCart uses a **Subscription Model** where people set up accounts and place orders on a regular basis.*
+*For the Business Metrics lesson, we use a case study of WeCart, a hypothetical **online App for grocery delivery** (similar to Instacart). WeCart uses a **Subscription Model** where people set up accounts and place orders on a regular basis.*
 
 *WeCart operates in both **B2C** and **B2B** models. They build awareness and try to get their name in front of potential customers by using SEO, email marketing, and ad platforms. They generate sales by reaching out to grocery stores. WeCart gain access to the grocery stores’ customers and the grocery store can access a delivery service.*
 
