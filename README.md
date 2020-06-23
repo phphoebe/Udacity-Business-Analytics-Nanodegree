@@ -6,11 +6,11 @@ Collect, Manipulate and Analyze data, model business scenarios, and communicate 
 
 ## Analyzing Data for any industry – Making better, data-informed decisions
 
-* **Descriptive Statistics**: Data Types, measures of Center, Spread, Shape, and Outliers associated with Quantitative Data. 
+* **Descriptive Statistics**: Data Types, measures of Center, Spread, Shape, and Outliers with Quantitative Data. 
 * **Business Metrics** across a range of business functions (Marketing, Sales, Growth, Engagement, Finance). Calculate and interpret KPIs, including CTR, CPC, CPA, CAC, CLTV, Churn Rate, Stickiness, etc.
 * **Excel Modeling**: advanced Functions (Index, Match, Offset) etc., create Financial and Sales Forecasting Models in MS Excel.
 * **Relational Database (RDS)** knowledge, Entity Relationship Diagrams (ERD), and advanced SQL querying. 
-* **Data Visualization**: Exploratory vs. Explanatory Analyses, best Design practices, make Dashboards and Stories in Tableau. 
+* **Data Visualization**: Exploratory vs. Explanatory Analyses, best Design practices, Dashboards and Stories in Tableau. 
 
 This program is in collaboration with:
 * [Tableau](https://www.tableau.com/)
@@ -48,7 +48,7 @@ Use a dataset containing financial performance data from companies listed in NYS
 * Create data analysis and a presentation to answer business questions. Use summary statistics to derive insights. 
 * Create a dashboard for a Profit and Loss Statement that calculates the Gross Profit, Operating Profit or EBIT for a company selected from a drop-down list.
 * Create a financial model that forecasts out metrics for two more years using three scenarios.
-* Technologies: Excel Charts, INDEX + MATCH, OFFSET, Data Validation, Functions (MEDIAN, MIN, STDEV, QUARTILE, etc.)
+* Technologies: Excel Charts, INDEX + MATCH, OFFSET, Data Validation, Functions (MEDIAN, MIN, STDEV, QUARTILE)
 
 
 ## Part 3 - SQL for Data Analysis
