@@ -8,7 +8,7 @@ Collect, Manipulate and Analyze data, model business scenarios, and communicate 
 
 * **Descriptive Statistics**: Data Types, measures of Center, Spread, Shape, and Outliers with Quantitative Data. 
 * **Business Metrics** across a range of business functions (Marketing, Sales, Growth, Engagement, Finance). Calculate and interpret KPIs, including CTR, CPC, CPA, CAC, CLTV, Churn Rate, Stickiness, etc.
-* **Excel Modeling**: advanced Functions (Index, Match, Offset) etc., create Financial and Sales Forecasting Models in MS Excel.
+* **Excel Modeling**: advanced Functions (Index, Match, Offset) etc., create Financial and Sales Forecasting Models
 * **Relational Database (RDS)** knowledge, Entity Relationship Diagrams (ERD), and advanced SQL querying. 
 * **Data Visualization**: Exploratory vs. Explanatory Analyses, best Design practices, Dashboards and Stories in Tableau. 
 
